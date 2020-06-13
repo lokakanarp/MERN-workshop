@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Loka123:Loka123@cluster0-pb7hb.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Loka123:Loka123@cluster0-pb7hb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
